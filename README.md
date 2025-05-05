@@ -45,7 +45,7 @@
   <div class="container">
     <h2>Quer saber mais sobre os empreendimentos?</h2>
     <p>Digite seu telefone e fale comigo no WhatsApp:</p>
-    <input type="tel" id="phoneInput" placeholder="(DDD) 91234-5678">
+    <input type="tel" id="phoneInput" placeholder="(19) 98271-7457">
     <button onclick="enviarWhatsApp()">Falar no WhatsApp</button>
   </div>
 
