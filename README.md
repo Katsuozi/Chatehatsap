@@ -52,7 +52,7 @@
   <script>
     function enviarWhatsApp() {
       const phone = document.getElementById("phoneInput").value;
-      const numeroCorretor = "5511999999999"; // coloque aqui seu número com DDI (ex: 55 + DDD + número)
+      const numeroCorretor = "5519982717457"; // coloque aqui seu número com DDI (ex: 55 + DDD + número)
       const mensagem = `Olá! Meu telefone é ${phone}, vi o site e gostaria de saber mais sobre os empreendimentos em Piracicaba.`;
-      const url = `https://wa.me/${numeroCorretor}?text=${encodeURIComponent(mensagem)}`;
+      const url = `https://wa.me${19982717457}?text=${encodeURIComponent(mensagem)}`;
       window.open(url
